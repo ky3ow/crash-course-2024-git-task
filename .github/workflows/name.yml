@@ -28,4 +28,4 @@ jobs:
 
       # Runs a single command using the runners shell
       - name: Run a one-line script
-        run: echo "Made by ${{ vars.AUTHOR_NAME }} ${{ vars.AUTHOR_SURNAME }} !"
+        run: echo "Made by ${{ vars.AUTHOR_NAME }} ${{ vars.AUTHOR_SURNAME }}!"
